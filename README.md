@@ -9,8 +9,8 @@ An autonomous economic agent protocol and dashboard built for **Track 4: Best Ag
 ## Submission Details
 
 - **Project Title:** ArcAether Compute Brokerage
-- **Track Submitted For:** Track 4 (Best Agentic Economy Experience on Arc)
-- **Developer Account Email:** doodl@circle.com
+- **Track Submitted For:** Best Agentic Economy Experience on Arc
+- **Developer Account Email:** s.narsi26267@gmail.com
 - **Circle Products Used on Arc:**
   - **USDC**: Core settlement rail for pay-as-you-use compute.
   - **Circle Web3 Wallets**: Developer-controlled & User-controlled hot wallets representing the agent credentials.
